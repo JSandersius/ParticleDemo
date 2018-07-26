@@ -14,7 +14,14 @@
             },
             "opacity": {
                 "value": 0.5,
-                "random": true
+                "random": true,
+                "anim": {
+                    "enable": true,
+                    "speed": 1
+                }
+            },
+            "size": {
+                "value": 5
             }
         }
     }
