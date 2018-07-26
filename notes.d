@@ -11,3 +11,4 @@ login form over partcicles background
 
  in the text editor, you can use "live-server" which is an npm module, so as long as we have node.js installed, we can use this 
  npm -g live-server added this nice dev server
+Xamp or Mamp will work, or a built node server 
