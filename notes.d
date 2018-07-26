@@ -23,6 +23,10 @@ so we're going to use a cdn (content delivery network)
 ok now we need an element to link onto 
     we need a div with the id particle-js
 
+now we need to include this particle.js.load and pass a couple things in 
+let's build another set of script tags to link to this script
+added in-line script to load particles.js particles.json and console.log json connection
+
     
 
         
