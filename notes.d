@@ -18,5 +18,11 @@ so in the html we're going to need to include the library
 so we're going to use a cdn (content delivery network)
     and it's from jsdelivr.com
         grab from hosting/cdn on github page 
-        
+        script linked
+
+ok now we need an element to link onto 
+    we need a div with the id particle-js
+
+    
+
         
