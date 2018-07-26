@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JSandersius/Particles.jsDemo/issues"
   },
-  "homepage": "https://github.com/JSandersius/Particles.jsDemo#readme"
+  "homepage": "https://github.com/JSandersius/Particles.jsDemo#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
 }
