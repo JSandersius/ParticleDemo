@@ -7,7 +7,15 @@
             "value": "#fff"
         },
         "shape": {
-            "type": "edge"
+            "type": "circle",
+            "stroke": {
+                "width": 4,
+                "color": "#ccc"
+            },
+            "opacity": {
+                "value": 0.5,
+                "random": true
+            }
         }
     }
 }
