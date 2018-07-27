@@ -1,7 +1,7 @@
 {
     "particles": {
         "number": {
-            "value": 100
+            "value": 400
         },
         "color": {
             "value": "#fff"
@@ -10,7 +10,7 @@
             "type": "circle",
             "stroke": {
                 "width": 2,
-                "color": "#ddd"
+                "color": "#ccc"
             },
             "opacity": {
                 "value": 100,
@@ -38,7 +38,7 @@
                 "enable": true,
                 "speed": 2,
                 "direction": "none",
-                "straight": true
+                "straight": false
             }
         }
     }
