@@ -18,3 +18,10 @@ body{
     top:100px; 
     left:50px; 
 }
+
+#login input[type="text"], #login 
+input[type="password"]{
+    padding:7px; 
+    margin-bottom:10px; 
+    border:1px #ccc solid; 
+}
